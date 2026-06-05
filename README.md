@@ -7,7 +7,15 @@
 - 2D графика
 - камера сверху
 
+## Движок 
+На основе проекта будет формироваться движок [nura](https://github.com/Nilg-nv/nura) 
 
+
+## Библиотеки 
+- для графики [gogpu/gg](https://github.com/gogpu/gg)
+- для аудио
+    - временно [ebitengine/oto](https://github.com/ebitengine/oto)
+    - как будет работать кросплатформа [gogpu/audio](https://github.com/gogpu/audio)
 
 ### Для максимальной эффективности стоит использовать формат Opus
 если достаточно моно, можно сэкономить ещё места
